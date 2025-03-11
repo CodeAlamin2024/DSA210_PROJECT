@@ -12,18 +12,18 @@ The analysis will be conducted using data science techniques, including explorat
 
 The main problem this project seeks to address is: How has Solana performed historically, and what is its potential for future growth in the cryptocurrency market? Cryptocurrencies are highly dynamic, and their performance is influenced by a wide range of factors, including market trends, technological advancements, competition, and macroeconomic conditions. Understanding Solana’s historical performance and evaluating its future potential is crucial for investors, developers, and stakeholders in the blockchain ecosystem.
 
-To address this problem, the project will explore the following key questions:
+To address this problem, I will consider the following key questions:
 
-What are the historical trends in Solana’s price and trading volume?
-This includes analyzing price movements, volatility, and trading activity over the past four years.
-What factors have influenced Solana’s performance?
-The project will examine the impact of variables such as Bitcoin prices, Ethereum prices, macroeconomic indicators, and on-chain metrics (e.g., transactions, active wallets) on Solana’s growth.
-How does Solana compare to other major cryptocurrencies?
-A comparative analysis will be conducted to evaluate Solana’s performance relative to competitors like Bitcoin, Ethereum, and other high-performance blockchains.
-What is Solana’s potential for future growth?
-Based on historical trends and current market conditions, the project will assess Solana’s potential to maintain or improve its position in the cryptocurrency market.
+- What are the historical trends in Solana’s price and trading volume?
+  - This includes analyzing price movements, volatility, and trading activity over the past four years.
+- What factors have influenced Solana’s performance?
+  - I will examine the impact of variables such as Bitcoin prices, Ethereum prices, macroeconomic indicators, and on-chain metrics (e.g., transactions, active wallets) on Solana’s growth.
+- How does Solana compare to other major cryptocurrencies?
+  - I will conduct a comparative analysis to evaluate Solana’s performance relative to competitors like Bitcoin, Ethereum, and other high-performance blockchains.
+- What is Solana’s potential for future growth?
+  - Based on historical trends and current market conditions, the project will assess Solana’s potential to maintain or improve its position in the cryptocurrency market.
 
-Additionally, the project will conduct hypothesis testing to evaluate the significance of certain factors. For example:
+Additionally, in the project I will conduct hypothesis testing to evaluate the significance of certain factors. For example:
 
 - Does Bitcoin’s price significantly influence Solana’s performance?
 - Is trading volume a strong indicator of Solana’s growth?
@@ -40,7 +40,7 @@ As per the project guidelines, since I am working with publicly available data (
 
 ## Methodology
 
-The project will follow a structured approach to analyze Solana’s performance and evaluate its future potential:
+In this project I will follow a structured approach to analyze Solana’s performance and evaluate its future potential:
 
 ### 1. Exploratory Data Analysis (EDA):
    - Visualize Solana’s historical price and trading volume trends.
@@ -54,13 +54,13 @@ The project will follow a structured approach to analyze Solana’s performance 
    - Evaluate Solana’s strengths and weaknesses relative to its competitors.
 ### 4. Future Potential Assessment:
    - Based on historical trends and current market conditions, assess Solana’s potential for future growth.
-   - Identify key drivers of growth and potential challenges (e.g., competition, regulatory changes).
+   - Identify the main drivers of growth and potential challenges (e.g., competition, regulatory changes).
 
 ## Expected Outcomes
 
 By the end of this project, I aim to provide:
 
-1. A detailed analysis of Solana’s historical performance, including key trends and drivers of growth.
+1. A detailed analysis of Solana’s historical performance, including overall trends and drivers of growth.
 2. Insights into how external factors (e.g., Bitcoin prices, macroeconomic conditions) influence Solana’s performance.
 3. A comparative evaluation of Solana’s performance relative to other major cryptocurrencies.
 4. An assessment of Solana’s potential for future growth, including opportunities and challenges.
